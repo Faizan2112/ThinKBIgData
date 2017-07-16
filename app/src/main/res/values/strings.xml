@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThinkBigData</string>
+    <string name="action_settings">Settings</string>
+    <string name="led1_text">main light</string>
+    <string name="led2_text">new Light</string>
+    <string name="led2_bt_text">Led 2</string>
+    <string name="express">Create your Talend Persona. We are Gold partner of Talend which helps us tailor Talend cost effective custom solutions for our clients to suffice their needs. Our Express Solution offering are:</string>
+    <string name="product">To help our customers with DataMasking, DataMigration and ETL jobs conversion needs, we developed state of the art BigData Express products offerings at affordable price.</string>
+</resources>
